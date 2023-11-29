@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scrollView2" type="id" />
+    <item name="refresh" type="id" />
+    <item name="direction" type="id" />
+    <item name="humidite" type="id" />
+    <item name="pression" type="id" />
+    <item name="vitvent" type="id" />
+    <item name="temp_min" type="id" />
+    <item name="temp_max" type="id" />
+    <item name="temp" type="id" />
+    <item name="desc" type="id" />
+    <item name="cityCoord" type="id" />
+    <item name="imageV" type="id" />
+</resources>
